@@ -1,8 +1,13 @@
-##COMO INICIAR
+## Como Iniciar
 
 Para iniciar este proyecto solo deben decargarlo o clonarlo e instalar las dependencias necesarias con
 
 npm install o yarn
+
+## Proyecto en vivo
+
+se puede ver una demo del proyecto en vivo, que carga directamente con las actualizaciones a este git desde:
+https://modest-panini-d323cd.netlify.com/
 
 ## Available Scripts
 
