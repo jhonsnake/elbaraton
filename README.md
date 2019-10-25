@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##COMO INICIAR
+
+Para iniciar este proyecto solo deben decargarlo o clonarlo e instalar las dependencias necesarias con
+
+npm install o yarn
 
 ## Available Scripts
 
