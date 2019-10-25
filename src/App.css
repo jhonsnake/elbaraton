@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+}
+
+.producto {
+  display: inline-block;
+  margin: 10px;
+  width: 200px;
+}
+
+* {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.category-button {
+  border: none;
+  background: none;
+}
+
+.products {
+  border: 1px solid red;
+}
+
+.category {
+  border: 1px solid blue;
+}
+
+.cart {
+  border: 1px solid green;
+}
+
+.cart-item ul {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item ul li,
+.products {
+  background-color: rgb(243, 243, 243);
+  border: 1px solid lightgray;
+  width: 200px;
+  font-size: 12px;
+}
+
+.products {
+  width: 100%;
+}
